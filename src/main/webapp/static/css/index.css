@@ -1,0 +1,61 @@
+
+html body{
+	margin:0;
+}
+#contentBody *{
+	width:auto;
+	height:auto;
+}
+#contentBody #daohang {
+	height: 24px;
+	width:450.813px;
+	margin-top: 19px;
+	marker-offset:5px;
+	margin-left: 1420.190px;
+	margin-right: 0px;
+	/* background :-webkit-linear-gradient(
+		top,white,lightblue
+	); */
+}
+#contentBody #daohang .a{
+	height: 24px;
+	width:24px;
+	margin : 0px;
+	margin-left: 15px;
+	margin-right: 0px;
+	font-size:13px;
+	padding-left :0px;
+	right: 0px;
+}
+span{
+	height: 24px;
+	width:24px;
+	margin : 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	font-size:13px;
+}
+#contentBody #daohang #more {
+	float: right;
+	background-color: #38f;
+	font:white;
+	margin : 0px;
+}
+#contentBody #daohang #more a{
+    color:white;
+    font-size: 13px;
+}
+#contentBody #icon{
+	
+	height: 132px;
+	width:1903px;
+	text-align: center;
+	
+}
+#contentBody #icon img{
+	height: 129px;
+	width:270px;
+	margin : 0;
+	margin-left: auto;
+	margin-right: auto;
+}
